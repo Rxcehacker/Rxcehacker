@@ -104,14 +104,14 @@ def hero():
             n=int(current)%10
             if((m%2==0 and n%2==0) or (m%2==1 and n%2==1)):
                 if current in numbers:
-                    print(newperiod+1,": RED")
+                    print(newperiod+1,": RED🕉️")
                 else:
-                    print(newperiod+1,": GREEN")
+                    print(newperiod+1,": GREEN🕉️")
             else:
                 if current in numbers:
-                    print(newperiod+1,": GREEN")
+                    print(newperiod+1,": GREEN🕉️")
                 else:
-                    print(newperiod+1,": RED")
+                    print(newperiod+1,": RED🕉️")
         i=i+1
         newperiod+=1
         numbers.append(current)
@@ -154,7 +154,7 @@ if(expirydate>today):
 
             hero()
     else:
-        banner='figlet RXCE'
+        banner='figlet WINMONEY🔥'
         print("Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
