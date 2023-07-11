@@ -10,8 +10,8 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2022, 9, 19)
-#expirydate = datetime.date(2021, 9, 19)
+expirydate = datetime.date(2023, 9, 19)
+#expirydate = datetime.date(2023, 9, 19)
 today=date.today()
 def hero():
 
@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @PARJAPAT")
+        print("Contact me on telegram @Aviator_hacker987")
         print("Enter ",newperiod," Parity Price :")
         current=input()
         current=int(current)
@@ -123,7 +123,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_HACKER")
+            sys.exit(" \n \n \n Contact on Telegram @Aviator_hacker987")
             #print(numbers)
   
 
@@ -154,7 +154,7 @@ if(expirydate>today):
 
             hero()
     else:
-        banner='figlet WINMONEY🔥'
+        banner='figlet COLOR PREDECTION🔥'
         print("Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
@@ -164,7 +164,7 @@ if(expirydate>today):
         print("9 Sept 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @RXCE_HACKER ")
+        print(" admin on telegram @Aviator_hacker987 ")
 
 
 
@@ -175,7 +175,7 @@ else:
     print("Your hack has expired--- Please contact")
     print(" on telegram ----RXCE_HACKER for activating")
     print(" Recharge Amount :        Total limit " )
-    print(" 1.     1000 INR -------  1 Day (40 Games")
-    print(" 2.     5000 INR -------  7 Days(280 Games")
+    print(" 1.     1000 INR -------  1 Day (400 Games")
+    print(" 2.     5000 INR -------  7 Days(2800 Games")
     print("*---------*----------*-------------*----------*")
     print("Your custom hack can be made request from us.")
